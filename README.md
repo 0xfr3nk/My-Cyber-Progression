@@ -31,7 +31,7 @@
 ---
 ## 📚 Course Completions
 
-<table>
+<table align="center">
   <tr>
     <!-- COLONNA SINISTRA: TryHackMe -->
     <td valign="top" width="50%">
