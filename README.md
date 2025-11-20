@@ -31,16 +31,38 @@
 ---
 ## 📚 Course Completions
 
-- 🧑‍💻 **Jr Penetration Tester** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/JrPenetrationTester.png)  
-- 🔓 **Hacking Base** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Hacking%20Base.png)  
-- 🛡️ **Cyber Security 101** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png)  
-- 🧩 **Pre-Security** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png)
-- 🌐 **Web Fundamentals** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Web%20Fundamentals.png)
-- 💻 **Cybersecurity Analyst** — Epicode [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/Epicode/Epicode%20-%20Cybersecurity%20Analyst.png)  
-- 🐍 **Introduction to Offensive Python** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png)  
-- 🏴‍☠️ **ArchLinux Customization** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png)  
-- ⚙️ **Linux Customization** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png)  
-- 🐧 **Linux Course** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png)  
+<table>
+  <tr>
+    <!-- COLONNA SINISTRA: TryHackMe -->
+    <td valign="top" width="50%">
+      <h3>🟦 TryHackMe</h3>
+      - 🧑‍💻 <strong>Jr Penetration Tester</strong> — TryHackMe  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/JrPenetrationTester.png">👉 Certificate</a><br>
+      - 🛡️ <strong>Cyber Security 101</strong> — TryHackMe  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png">👉 Certificate</a><br>
+      - 🧩 <strong>Pre-Security</strong> — TryHackMe  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png">👉 Certificate</a><br>
+      - 🌐 <strong>Web Fundamentals</strong> — TryHackMe  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Web%20Fundamentals.png">👉 Certificate</a><br>
+    </td>
+    <!-- COLONNA DESTRA: Altri corsi -->
+    <td valign="top" width="50%">
+      <h3>🟥 Other Platforms</h3>
+      - 🔓 <strong>Hacking Base</strong> — HackNow  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Hacking%20Base.png">👉 Certificate</a><br>
+      - 💻 <strong>Cybersecurity Analyst</strong> — Epicode  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/Epicode/Epicode%20-%20Cybersecurity%20Analyst.png">👉 Certificate</a><br>
+      - 🐍 <strong>Introduction to Offensive Python</strong> — HackNow  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png">👉 Certificate</a><br>
+      - 🏴‍☠️ <strong>ArchLinux Customization</strong> — HackNow  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png">👉 Certificate</a><br>
+      - ⚙️ <strong>Linux Customization</strong> — HackNow  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png">👉 Certificate</a><br>
+      - 🐧 <strong>Linux Course</strong> — HackNow  
+        <a href="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png">👉 Certificate</a><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
